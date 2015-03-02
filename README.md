@@ -11,7 +11,7 @@ The program consists of a simple textbox that takes any non-zero length input
 and then echos back the string in the next page with a "Hello," prepended to
 that text.
 
-# Features provided by the sample "Hello, World!"
+## Features provided by the sample "Hello, World!"
 
 1. Implements a simple Application controller in AppController.java
 2. Implements an eventBus using the internal GWT eventBus
@@ -21,7 +21,7 @@ PageOne and PageTwo
 5. Implements a basic Event handler Interface for PageOne which is captured in
 Application Controller
 
-# Notes
+## Notes
 
 The application leaves "shared" and "server" packages empty since the focus of
 the example is to demonstrate the MVP, but the packages are kept empty for
